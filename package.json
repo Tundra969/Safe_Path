@@ -1,0 +1,19 @@
+{
+  "name": "Safe_Path",
+  "version": "1.0.0",
+  "description": "Safe Path can assist you in locating local resources for mental wellbeing.",
+  "main": "Grunt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "author": "Leslie, Rachel, KKO, Dana",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.5",
+    "bootstrap": "^3.3.6",
+    "grunt": "^1.0.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}
